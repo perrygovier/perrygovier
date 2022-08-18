@@ -8,8 +8,8 @@ There's only one other Perry Govier that I'm aware of and he's a retiree who doe
 
 ## Socials:
 
+- [Twitter](https://twitter.com/perrygovier)
+- [LinkedIn](https://linkedin.com/in/perrygovier)
+- [StackOverflow](https://stackoverflow.com/users/879459/perry)
 - [Facebook](https://www.facebook.com/perrygovier)
 - [Instagram](https://instagram.com/perrygovier)
-- [LinkedIn](https://linkedin.com/in/perrygovier)
-- [Twitter](https://twitter.com/perrygovier)
-- [StackOverflow](https://stackoverflow.com/users/879459/perry)
