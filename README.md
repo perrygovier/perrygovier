@@ -9,6 +9,7 @@ The wonderful thing about Perry Govier's is that I'm the only one!* So if you se
 
 ## Socials:
 
+- [BlueSky](https://bsky.app/profile/perrygovier.com)
 - <a rel="me" href="https://mastodon.social/@perrygovier">Mastodon</a>
 - [Twitter](https://twitter.com/perrygovier)
 - [LinkedIn](https://linkedin.com/in/perrygovier)
